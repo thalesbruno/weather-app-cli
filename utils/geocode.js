@@ -11,10 +11,10 @@ const geocode = (address, callback) => {
       callback('No results for your query search.', null)
     }
     else {
-      const { center } = body.features[0]
+      const { center, place_name } = body.features[0]
       const latitude = center[1]
       const longitude = center[0]
-      callback(null, { latitude, longitude })
+      callback(null, { place_name, latitude, longitude })
     }
   })
 
