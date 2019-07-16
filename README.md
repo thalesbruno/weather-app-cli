@@ -14,6 +14,21 @@ Table of contents
 Installation and usage
 ======================
 
+Clone repository  
+```bash
+git clone https://github.com/thalesbruno/weather-app-cli
+```
+
+On brand new weather-app-cli directory created, run `npm install` to install all project dependencies.  
+
+So, you'll be already able to start the app using `node app.js`.  
+
+As an example of usage, let's look Salvador, Bahia, Brazil summary report:
+
+```bash
+node app.js salvador
+```
+
 Technologies covered
 ====================
 
