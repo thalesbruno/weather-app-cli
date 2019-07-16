@@ -1,13 +1,21 @@
-weather-app
+Weather App CLI
 ===========
-Weather app
+Weather app command line version. For the web version, see https://github.com/thalesbruno/weather-app-web
 
 <!--ts-->
 Table of contents
 -----------------
-* [request](#request)
-* [toFixed](#tofixed)
+* [Installation and usage](#installation-and-usage)
+* [Technologies covered](#technologies-covered)
+  * [request](#request)
+  * [toFixed](#tofixed)
 <!--te-->
+
+Installation and usage
+======================
+
+Technologies covered
+====================
 
 request
 -------
