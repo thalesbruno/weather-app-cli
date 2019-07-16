@@ -1,10 +1,13 @@
 weather-app
 ===========
-
 Weather app
 
-Modules covered
-===============
+<!--ts-->
+Table of contents
+-----------------
+* [request](#request)
+* [toFixed](#tofixed)
+<!--te-->
 
 request
 -------
